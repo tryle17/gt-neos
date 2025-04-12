@@ -1,11 +1,11 @@
 [
 {
   "kernelSource": {
-    "name": "KernelSU-GT7PRO_Dimensity_1200_Series",
-    "repo": "https://github.com/realme-kernel-opensource/realme_GT7pro-AndroidV-kernel-source",
-    "branch": "master",
-    "device": "RMX5010",
-    "defconfig": "defconfig"
+    "name": "KernelSU-GTNeo_Dimensity_1200_Series",
+    "repo": "https://github.com/nishant6342/kernel_realme_RMX3031",
+    "branch": "T-Backup",
+    "device": "cupida",
+    "defconfig": "cupida_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
